@@ -13,7 +13,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com https://github.com/shiddiqajaa/shdq-software-solutions
    ```
 2. Install dependencies:
    ```bash
